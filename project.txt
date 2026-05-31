@@ -1,5 +1,0 @@
-Github pull request demo
-
-Version 1.0
-
-this change was added via a pull request
